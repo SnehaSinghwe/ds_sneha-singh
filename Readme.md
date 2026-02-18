@@ -2,22 +2,6 @@
 
 This repository contains my submission for the Web3 Trading Team Data Science Assignment.
 
-## Folder Structure
-
-ds_sneha/
-├── notebook_1.ipynb
-├── csv_files/ 
-│ ├── cleaned_trader_data_sample.csv
-│ ├── daily_aggregates.csv
-│ ├── daily_with_sentiment.csv
-│ └── daily_with_sentiment_and_signals.csv
-├── outputs/ 
-│ ├── pnl_by_sentiment.png
-│ ├── volume_and_sentiment.png
-│ └── corr_heatmap.png
-├── ds_report.pdf
-└── README.md 
-
 ## How to Run
 
 1. Open [Google Colab](https://colab.research.google.com/).
